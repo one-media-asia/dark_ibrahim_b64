@@ -1,0 +1,4 @@
+My actual recommendation
+For a Base64 encoder, I'd question whether the animation is necessary at all. Encoding is practically instantaneous.
+
+A simple success message would do the job.
